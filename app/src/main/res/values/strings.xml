@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="responsetrue">Jawaban Anda benar</string>
+    <string name="responsefalse">Maaf. salah</string>
+    <string name="q1">Jakarta adalah ibukota Indonesia</string>
+    <string name="q2">Jakarta adalah ibukota Indonesia</string>
+    <string name="q3">Jakarta adalah ibukota Indonesia</string>
+    <string name="q4">Jakarta adalah ibukota Indonesia</string>
+    <string name="q5">Jakarta adalah ibukota Indonesia</string>
+    <string name="q6">Jakarta adalah ibukota Indonesia</string>
+</resources>
